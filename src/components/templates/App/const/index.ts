@@ -26,3 +26,7 @@ export const ORDER_LIST = [
   },
 ] as const
 
+export const INITIAL_DISPLAY_DATA = {
+  totalCounts: 0,
+  totalPrice: 0,
+}
